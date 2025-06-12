@@ -2,8 +2,6 @@
 
 Build, deploy, and scale your modern applications faster and easier on Akamai Cloud. Choose from a variety of user-friendly and reliable cloud solutions to help you grow your business.
 
-{% img src="./images/welcome-diagram-v4.jpg" alt="Welcome diagram"  withLightbox=true /%}
-
 ## Benefits
 
 Akamai Cloud offers these benefits:
